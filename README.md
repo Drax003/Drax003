@@ -28,7 +28,7 @@ $ cat about.txt
 ```
 
 ```
-Name     : [Your Name]
+Name     : Chavan G Bhat
 Location : 🌏 India
 Status   : Turning coffee into secure, intelligent systems
 Hobbies  : CTFs, building side projects, breaking stuff ethically
