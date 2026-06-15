@@ -104,7 +104,7 @@ Superpower: Making complex things sound simple
 | 🤖 **[Project Name]** | LLM fine-tuned on security datasets | `PyTorch` `HuggingFace` `Docker` |
 | 🏗️ **[Project Name]** | Distributed system with fault tolerance | `Go` `Redis` `Kubernetes` |
 
-> 📌 *Replace the above with your real pinned projects!*
+
 
 ---
 
